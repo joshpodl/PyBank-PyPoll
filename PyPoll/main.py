@@ -1,0 +1,1 @@
+#Title of Assignment"PyPoll Homework Solution"#Import dependencies/packagesimport osimport csv#Load CSV filefile_to_load = os.path.join("Resources", "election_data.csv")
