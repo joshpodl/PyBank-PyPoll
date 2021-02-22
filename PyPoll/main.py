@@ -1,1 +1,1 @@
-#Title of Assignment"PyPoll Homework Solution"#Import pandasimport pandas as pd#Load CSV filedf = pd.read_csv("Resources/election_data.csv")        
+#Title of Assignment"PyPoll Homework Solution"#Import dependenciesimport osimport csv#Load CSV filefile_to_load = os.path.join("Resources", "election_data.csv")#Initialize variablestotal_votes = 0khan_votes = 0correy_votes = 0li_votes = 0otooley_votes = 0
