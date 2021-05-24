@@ -1,6 +1,4 @@
-# python-challenge
-
-## Python Homework - Py Me Up, Charlie
+# Financial Analysis and Vote Counting with Python
 
 ### Background
 
